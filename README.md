@@ -5,8 +5,8 @@ A Library Cluster For PhalconPHP Framework
 
 <code>
   $lib = new DataTable(new Users());
-</code>
-Users model must be implemented Phalcon\Mvc\Model
+</code><br>
+Users model must be implemented Phalcon\Mvc\Model<br>
 <code>
   $lib->setSchema([
     'columns' => [
